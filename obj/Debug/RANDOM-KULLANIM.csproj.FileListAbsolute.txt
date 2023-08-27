@@ -1,0 +1,11 @@
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\bin\Debug\RANDOM-KULLANIM.exe.config
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\bin\Debug\RANDOM-KULLANIM.exe
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\bin\Debug\RANDOM-KULLANIM.pdb
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM-KULLANIM.csproj.AssemblyReference.cache
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM-KULLANIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM_KULLANIM.Form1.resources
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM_KULLANIM.Properties.Resources.resources
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM-KULLANIM.csproj.GenerateResource.cache
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM-KULLANIM.csproj.CoreCompileInputs.cache
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM-KULLANIM.exe
+C:\Users\anile\source\repos\RANDOM-KULLANIM\RANDOM-KULLANIM\obj\Debug\RANDOM-KULLANIM.pdb
